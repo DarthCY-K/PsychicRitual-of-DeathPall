@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+
+	<name>PsychicRitual of DeathPall</name>
+	<author>DarthCY</author>
+	<packageId>DarthCY.PsychicRitual.DeathPall</packageId>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<description>Make you can summon DeathPall after discovered.</description>
+	<modDependencies>
+		<li>
+			<packageId>Ludeon.RimWorld.Anomaly</packageId>
+			<displayName>DLC Anomaly</displayName>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>Ludeon.RimWorld.Anomaly</li>
+	</loadAfter>
+
+</ModMetaData>

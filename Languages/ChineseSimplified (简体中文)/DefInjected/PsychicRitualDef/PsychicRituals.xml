@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <SummonDeathPall.label>死灵迷雾</SummonDeathPall.label>
+  <SummonDeathPall.description>进行一场仪式，让灰褐色的迷雾笼罩这片区域。\n\n这种迷雾由腐化的超凡微械构成，它们会钻进生物的尸体中，将其“复活”成扭曲诡异的活尸。</SummonDeathPall.description>
+  <SummonDeathPall.outcomeDescription>以当前仪式质量，死灵迷雾将会持续{0}。</SummonDeathPall.outcomeDescription>
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <SummonDeathPall.label>死灵迷雾</SummonDeathPall.label>
+  <SummonDeathPall.description>进行心灵仪式，让灰褐色的迷雾笼罩这片区域。\n\n这种迷雾由腐化的超凡微械构成，它们会钻进生物的尸体中，将其“复活”成扭曲诡异的活尸。</SummonDeathPall.description>
+  <SummonDeathPall.generalRules.rulesStrings>
+    <li>subject->召唤死灵迷雾</li>
+    <li>subject_story->调查过古代关于死者复生的传说</li>
+    <li>subject_story->研究过活尸的神经回路</li>
+    <li>subject_story->对Ix飞升世界的超凡微械进行了采样</li>
+    <li>subject_story->观察到尸体被迷雾浸透，被转换成了活尸</li>
+    <li>subject_gerund->正在召唤死灵迷雾</li>
+  </SummonDeathPall.generalRules.rulesStrings>
+  
+</LanguageData>

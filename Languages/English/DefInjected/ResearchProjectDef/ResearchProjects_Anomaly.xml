@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <SummonDeathPall.label>DeathPall</SummonDeathPall.label>
+  <SummonDeathPall.description>Have a ritual to get the area covered by the gray mist. \n\nA corpse-gray cloud composed of microscopic self-powered archites created by some unknown superintelligence. When they land on dead flesh, they enter the body and reanimate it to create a shambling imitation of life.</SummonDeathPall.description>
+  <SummonDeathPall.generalRules.rulesStrings>
+    <li>subject->Summon DeathPall</li>
+    <li>subject_story->Investigated ancient legends about the resurrection of the dead</li>
+    <li>subject_story->Had studyed the neural circuits of shambers</li>
+    <li>subject_story->Had samped microscopic self-powered archites of Ix world</li>
+    <li>subject_story->Observed the body soaked in mist，turned into a shamber</li>
+    <li>subject_gerund->Now Summoning DeathPall</li>
+  </SummonDeathPall.generalRules.rulesStrings>
+  
+</LanguageData>

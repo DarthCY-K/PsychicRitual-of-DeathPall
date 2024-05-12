@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <SummonDeathPallCompleteText>{0_nameDef} has finished performing {RITUAL_definite} ritual. The colony was shrouded in gray mist. Ensure that there are no corpses outside the roof cover to prevent them from being transformed into shambers by fog.</SummonDeathPallCompleteText>
+
+</LanguageData>

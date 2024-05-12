@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <PsychicRitual_DeathPall.PsychicRitual.PsychicRitualDef_SummonDeathPall>
+    <defName>SummonDeathPall</defName>
+    <label>DeathPall</label>
+    <description>Have a ritual to get the area covered by the gray mist. \n\nA corpse-gray cloud composed of microscopic self-powered archites created by some unknown superintelligence. When they land on dead flesh, they enter the body and reanimate it to create a shambling imitation of life.</description>
+    <researchPrerequisite>SummonDeathPall</researchPrerequisite>
+    <outcomeDescription>At the current ritual quality, the DeathPall will last for {0}.</outcomeDescription>
+    <hoursUntilOutcome>2</hoursUntilOutcome>
+    <durationHoursFromQualityRange>3~16</durationHoursFromQualityRange>
+    <castableOnPocketMaps>false</castableOnPocketMaps>
+    <requiredOffering>
+      <filter>
+        <thingDefs>
+          <li>Bioferrite</li>
+        </thingDefs>
+      </filter>
+      <count>70</count>
+    </requiredOffering>
+    <cooldownHours>600</cooldownHours>
+    <chanterRole>ChanterAdvanced</chanterRole>
+    <iconPath>UI/CodexEntries/DeathPall</iconPath>
+  </PsychicRitual_DeathPall.PsychicRitual.PsychicRitualDef_SummonDeathPall>
+
+</Defs>

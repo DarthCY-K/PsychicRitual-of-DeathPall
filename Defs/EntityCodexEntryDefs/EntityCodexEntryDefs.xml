@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <!-- Basic -->
+
+  <EntityCodexEntryDef>
+    <defName>Deathpall</defName>
+    <label>deathpall</label>
+    <description>A corpse-gray cloud composed of microscopic self-powered archites created by some unknown superintelligence. When they land on dead flesh, they enter the body and reanimate it to create a shambling imitation of life.</description>
+    <category>Basic</category>
+    <uiIconPath>UI/CodexEntries/DeathPall</uiIconPath>
+    <linkedIncidents>
+      <li>DeathPall</li>
+    </linkedIncidents>
+    <discoveredResearchProjects>
+      <li>DeadlifeDust</li>
+      <li>SummonDeathPall</li>
+    </discoveredResearchProjects>
+    <provocationIncidents>
+      <li>DeathPall</li>
+    </provocationIncidents>
+    <orderInCategory>700</orderInCategory>
+  </EntityCodexEntryDef>
+
+</Defs>
